@@ -30,17 +30,6 @@ Several constraints were placed on the selection of these instances from a large
 - Age: Age (years)
 - Outcome: Class variable (0 or 1)
 
-### Sources
-(a) Original owners: National Institute of Diabetes and Digestive and
-Kidney Diseases
-(b) Donor of database: Vincent Sigillito (vgs@aplcen.apl.jhu.edu)
-Research Center, RMI Group Leader
-Applied Physics Laboratory
-The Johns Hopkins University
-Johns Hopkins Road
-Laurel, MD 20707
-(301) 953-6231
-(c) Date received: 9 May 1990
 
 ## Feature Selection
 
@@ -238,7 +227,7 @@ It's worth noting that you can also use frameworks like Flask-CLI or Flask-Scrip
 
 ## Authors
 
-- [Nilesh Parab](https://github.com/nileshparab42) (Project Lead) - [Website](https://nileshparab10.blogspot.com/)
+- [Aditya Kamble ](https://adityakamble.in.net) (Project Lead) - [Website](https://adityakamble.in.net/)
   
 
 ## Acknowledgements
